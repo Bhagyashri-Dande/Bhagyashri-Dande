@@ -32,3 +32,18 @@ You can click the Preview link to take a look at your changes.
 -	:seedling:Exploring different technologies:earth_asia:
 - :hourglass:In my quality time I explore latest research in IT:chart_with_upwards_trend:	 
 -	:stew: I am part time food Bloger :cookie::curry:
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-plain.svg" title="Salesforce"  alt="SalesforceL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"  title="Wordpress" alt="wordpress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+
